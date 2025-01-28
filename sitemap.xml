@@ -1,0 +1,1977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/index.html#gsc.tab=0</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/parallel/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/newsletter/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/glossary.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/other-uk-hpc-resources.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/help.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/FAQs.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/cheatsheets/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/citing.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/what-is-hpc.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/accounts.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/myapps.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/connecting.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/mfa.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/filestore.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/transferring-files.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/advanced_job_submission_and_control.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/modules.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/Choosing-appropriate-resources.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/installing-software.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/flight-desktop.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/hpcgateway.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/stanage-FAQ-gotchas.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/cluster_specs.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/slurm.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/stanage-mfa-setup.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/GPUComputingStanage.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/cluster_specs.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/slurm.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/GPUComputingBessemer.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/groupnodes/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/parallel/JobArray.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/parallel/SMP.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/parallel/MPI.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/parallel/Hybrid.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/parallel/GPUComputing.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/sharc/cluster_specs.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/groupnodes/dcs-acad-gpu-nodes.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/newsletter/20241101.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/newsletter/20241010.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/newsletter/20240416.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/newsletter/20240301.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/newsletter/20240201.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/newsletter/20231201.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/newsletter/mfa-update-21-10-2021.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/newsletter/bessemer-maintenance-27-06-2024.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/other-uk-hpc-resources/jade2.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/other-uk-hpc-resources/bede.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/other-uk-hpc-resources/jade.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/ncdu.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/ncdu.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/computer-architecture/quick-start.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/parallel/openmpi.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/Common-commands/seff.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/Common-commands/sacct.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/Common-commands/squeue.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/Common-commands/sstat.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/Common-commands/scancel.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/Common-commands/scontrol.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/Common-commands/salloc.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/Common-commands/srun.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/Common-commands/sinfo.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/ANSYS/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/environment-modules/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/linux-shell/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/computer-architecture/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/connecting-ssh/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/mfa/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/admins/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/admins/readme.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/iceberg.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/cluster_specs.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/sge.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/GPUComputingShARC.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/DeepLearningShARC.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/groupnodes/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/jupyterhub.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/sharc-decommissioning.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/hw-accel-gfx.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/FAQ_sharc.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/mfa/what-is-totp.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/connecting-ssh/windows_terminal.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/connecting-ssh/mobaxterm.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/advanced_job_analysis_and%20_profiling.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/hpc/scheduler/drmaa.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/Common-commands/sbatch.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/python.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/apptainer.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/python.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/singularity.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/development/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/parallel/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/cuda.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/cudnn.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/development/nvidia_compiler.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/parallel/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/ansys/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/Bowtie2.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/DL_POLY_4.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/NetLogo.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/PLUMED.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/R.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/SAMtools.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/STAR.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/abaqus.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/ansysem.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/bedtools.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/comsol.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/jags.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/java.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/julia.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/mathematica.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/matlab.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/maven.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/nextflow.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/octeract.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/openfoam.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/phoronix.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/pytorch.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/sox.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/tensorflow.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/vasp.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/clang.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/cmake.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/doxygen.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/gcc.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/git.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/icc_ifort.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/nvidia_compiler.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/pgi.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/sbt.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/development/toolchains.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/blas.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/cfitsio.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/cuda.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/cudnn.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/fftw.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/gsl.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/hdf5.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/imkl.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/lapack.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/netcdf.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/openblas.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/libs/scalapack.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/parallel/impi.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/parallel/openmpi.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/groupnodes/dcs-gpu-nodes.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/parallel/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/nextflow.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/rstudio.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/matlab.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/castep.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/molpro.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/PETSc.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/rosetta.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/ansys/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/R.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/abaqus.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/ansysem.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/git-lfs.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/gmp.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/gromacs.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/java.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/julia.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/lammps.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/mathematica.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/maven.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/netlogo.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/openfoam.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/pytorch.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/sox.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/tensorflow.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/vasp.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/xvfb.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/parallel/impi.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/Common-commands/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SLURM/SLURM-environment-variables.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/TimeAllocationLimits.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/MemoryAllocationLimits.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/CpuAllocationLimits.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/FileStoreLimits.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/ListingQueues.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/ANSYS/fluent/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/ANSYS/typical_executable_paths.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/environment-modules/creating-custom-modulefiles.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/linux-shell/making-software-available-with-bashrc.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/linux-shell/the-bashrc-file.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/linux-shell/unpacking-a-tarball.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/linux-shell/unpacking-an-rpm.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/linux-shell/verifying-software-package-downloads.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/linux-shell/what-are-environment-variables.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/admins/Contributing.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/admins/code-snippets.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/admins/software.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/admins/custom.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/admins/</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/policy/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/community/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/ansys/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/ANTs.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/CASTEP.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/DAfoam.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/FastQC.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/Qt5.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/R.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/SAMtools.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/abaqus.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/ads.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/ansysem.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/bedtools.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/bwa.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/caffe.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/cctools.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/code_saturne.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/dakota.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/dl_poly.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/dl_poly_classic.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/ffmpeg.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/flame.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/foxit.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/gatk.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/gaussian.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/gaussian_09.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/gmp.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/gnuplot.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/go.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/gromacs.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/gulp.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/idl.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/imagemagick.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/intel_r.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/itksnap.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/jags.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/java.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/julia.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/lammps.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/maple.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/mathematica.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/matlab.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/maven.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/molpro.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/ncdu.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/nextflow.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/octeract.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/openfoam.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/orca.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/phoronix-test-suite.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/plink.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/plumed.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/polyrate.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/python.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/pytorch.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/repast_hpc.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/rosetta.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/siesta.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/singularity.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/spark.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/su2.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/taverna-cli.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/tensorflow.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/theano.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/torch.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/turbomole.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/vasp.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/vcftools.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/xvfb.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/clang.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/cmake.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/doxygen.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/gcc.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/git.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/intel_compilers.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/intel_parallel_studio.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/nag.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/nvidia_compiler.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/pgi.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/development/sbt.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/FLAMEGPU.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/armadillo.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/blas.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/boost.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/cfitsio.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/cuda.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/cudnn.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/expat.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/fftw.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/gdal.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/geos.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/gsl.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/hdf5.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/icu.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/intel_daal.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/intel_ipp.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/intel_mkl.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/intel_tbb.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/lapack.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/libsndfile.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/libunistring.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/nag-libs.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/openssl.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/proj.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/scotch.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/sqlite.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/tiff.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/udunits.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/libs/votca.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/parallel/intelmpi.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/parallel/mvapich2-intel.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/parallel/openmpi-gcc.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/parallel/openmpi-intel.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/parallel/openmpi-pgi.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/community/magma.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/Common-commands/qrsh.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/Common-commands/qsh.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/Common-commands/qrshx.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/sge_parallel_environments.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/Common-commands/qsub.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/Common-commands/qstat.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/Common-commands/qdel.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/Common-commands/qacct.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/groupnodes/dgx-1.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/groupnodes/32c_nodes.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/groupnodes/big_mem_nodes.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/groupnodes/cryoem.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/jupyterhub/conn_res_req_start.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/jupyterhub/jupyterlab_overview.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/jupyterhub/terminal.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/jupyterhub/conda.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/jupyterhub/nb_usage.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/jupyterhub/sess_monit.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/jupyterhub/issues.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/development/cmake.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/development/doxygen.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/development/gcc.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/development/git.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/development/icc_ifort.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/development/toolchains.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/blas.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/boost.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/cfitsio.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/fftw.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/gdal.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/geos.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/gsl.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/hdf5.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/imkl.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/libsndfile.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/libunistring.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/nag.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/netcdf.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/nlopt.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/openblas.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/proj.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/scalapack.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/libs/udunits.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/ansys/fluent.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/ansys/mechanical.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/ansys/ls-dyna.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/ansys/fluent.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/ansys/mechanical.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/ansys/ls-dyna.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/Common-commands/index.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/sge_environment_variables.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/sge_failure_codes.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/ANSYS/fluent/writing-fluent-journal-files.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/ANSYS/fluent/export-fluent-plots-while-using-batch-jobs.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/ansys/fluent.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/ansys/mechanical.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/decommissioned/sharc/software/apps/ansys/ls-dyna.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/Common-commands/qhost.html</loc>
+  <lastmod>2024-11-05T14:00:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
