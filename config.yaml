@@ -1,0 +1,11 @@
+# Indexing
+sitemap_path: "sitemap.xml"
+embeddings_model: "mxbai-embed-large:latest"
+vector_store_type: "chroma"
+chunk_size: 1000
+chunk_overlap: 100
+vector_store_path: "vector_store"
+
+# Rag Pipeline
+llm_model: "deepseek-r1:7b"
+system_prompt: "default"
